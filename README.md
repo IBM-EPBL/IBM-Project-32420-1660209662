@@ -50,7 +50,7 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 **💡PROJECT DESIGN & PLANNING**    
 **Project design phase 1**          
 <button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-850-1658326108/tree/main/ProjectDesign%26Planning/Project%20Design%20Phase1">Click here
+    <a href="https://github.com/IBM-EPBL/IBM-Project-32420-1660209662/tree/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Desing%20Phase%20I">Click here
 </button>     
 **Project design phase 2**
 <button>
