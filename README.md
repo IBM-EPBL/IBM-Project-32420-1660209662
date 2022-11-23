@@ -45,7 +45,7 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 
 🧠 BRAINSTORMING -[Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/ProjectDesign%26Planning/Ideation_Phase/Brainstorming.pdf)
 
-💻 LITERATURE SURVEY -[Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/ProjectDesign%26Planning/Ideation_Phase/Literature_survey.pdf)
+💻 LITERATURE SURVEY -[Click Here](https://github.com/IBM-EPBL/IBM-Project-32420-1660209662/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Ideation%20Phase/TSK-189861%20Literature%20Review_IBM.pdf)
 
 **💡PROJECT DESIGN & PLANNING**    
 **Project design phase 1**          
