@@ -41,7 +41,7 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 
 **Ideation_Phase**
 
-🗺️ EMPATHY MAP - [Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/ProjectDesign%26Planning/Ideation_Phase/Empathy_Map.png)
+🗺️ EMPATHY MAP - [Click Here](https://github.com/IBM-EPBL/IBM-Project-32420-1660209662/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Ideation%20Phase/TSK-189862%20Empathy%20map.pdf)
 
 🧠 BRAINSTORMING -[Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/ProjectDesign%26Planning/Ideation_Phase/Brainstorming.pdf)
 
